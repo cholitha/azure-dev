@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:13 AM] Emulator config file set to C:\Users\ins_t\source\repos\CrawlerWorkerRole\CrawlerWorkerRole\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:13 AM] DiagnosticsStoreRootPath set to: C:\Users\ins_t\AppData\Local\dftmp\Resources\8d15f87b-7f1f-439a-9e1b-7ff565fbfc50
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:13 AM] Loading config file: C:\Users\ins_t\source\repos\CrawlerWorkerRole\CrawlerWorkerRole\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:13 AM] Config file to read: C:\Users\ins_t\source\repos\CrawlerWorkerRole\CrawlerWorkerRole\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:13 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:13 AM] Emulator config file set to C:\Users\ins_t\source\repos\CrawlerWorkerRole\CrawlerWorkerRole\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:13 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:13 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:13 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:13 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:14 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:14 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:14 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:14 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:37:14 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:38:24 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [10/22/2019 4:38:24 AM] DiagnosticPlugin exited with code 0

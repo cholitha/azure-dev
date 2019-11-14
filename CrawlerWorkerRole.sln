@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "CrawlerWorkerRole", "CrawlerWorkerRole\CrawlerWorkerRole.ccproj", "{35CA0A56-BC98-49A2-BBBF-9C7641377B20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerRoleService", "WorkerRole1\WorkerRoleService.csproj", "{01833515-B700-459C-84DC-595776D64C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CA0A56-BC98-49A2-BBBF-9C7641377B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CA0A56-BC98-49A2-BBBF-9C7641377B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CA0A56-BC98-49A2-BBBF-9C7641377B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CA0A56-BC98-49A2-BBBF-9C7641377B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01833515-B700-459C-84DC-595776D64C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01833515-B700-459C-84DC-595776D64C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01833515-B700-459C-84DC-595776D64C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01833515-B700-459C-84DC-595776D64C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14BFFA81-D9B3-4689-B40A-3834E22A8B9E}
+	EndGlobalSection
+EndGlobal

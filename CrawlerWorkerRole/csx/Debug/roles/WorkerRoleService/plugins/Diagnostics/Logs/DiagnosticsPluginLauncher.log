@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:48 AM] Emulator config file set to C:\Users\ins_t\Documents\AutomationOfficial\spiderautomation\CrawlerWorkerRole\csx\Debug\roles\WorkerRoleService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:48 AM] DiagnosticsStoreRootPath set to: C:\Users\ins_t\AppData\Local\dftmp\Resources\7c16362c-b092-4dd8-8803-4a47b4a21d3a
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:48 AM] Loading config file: C:\Users\ins_t\Documents\AutomationOfficial\spiderautomation\CrawlerWorkerRole\csx\Debug\roles\WorkerRoleService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:48 AM] Config file to read: C:\Users\ins_t\Documents\AutomationOfficial\spiderautomation\CrawlerWorkerRole\csx\Debug\roles\WorkerRoleService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:48 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:48 AM] Emulator config file set to C:\Users\ins_t\Documents\AutomationOfficial\spiderautomation\CrawlerWorkerRole\csx\Debug\roles\WorkerRoleService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:48 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:48 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:48 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:48 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:49 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:49 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:49 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:49 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [11/1/2019 10:20:49 AM] Resetting DiagnosticPlugin
